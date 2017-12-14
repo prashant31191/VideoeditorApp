@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name = "left" translatable = "false"> returns </string>
+        <string name = "right" translatable = "false"> done </string>
+        <string name = "sure" translatable = "false"> OK </string>
+        <string name = "next_step" translatable = "false"> Next </string>
+        <string name = "triming_wating" translatable = "false"> intercepting, please be patient! </string>
+        <string name = "cancel" translatable = "false"> Cancel </string>
+        <string name = "edit" translatable = "false"> edit </string>
+
+
+    <string name = "release" translatable = "false"> publish </string>
+        <string name = "setting_competence" translatable = "false"> Set permissions </string>
+        <string name = "setting_date" translatable = "false"> set date </string>
+        <string name = "setting_more" translatable = "false"> More Settings </string>
+        <string name = "app_name" translatable = "false"> Android Video Editing SDK </string>
+        <string name = "competence_0" translatable = "false"> Visible to relatives only </string>
+        <string name = "trim_video" translatable = "false"> Video Intercept </string>
+        <string name = "trim_hint"> Swipe to select the clip you want to clip </string>
+        <string name = "preview_error"> Temporarily unable to preview, please try again! </string>
+
+    <string name = "upload_successs"> uploaded successfully! </string>
+        <string name = "video_share_uploading"> Uploading ... </string>
+        <string name = "video_not_found"> ​​No video found </string>
+        <string name = "photo_not_found"> ​​No image found </string>
+        <string name = "wait"> Please wait ... </string>
+        <string name = "tocontinue"> Continue </string>
+        <string name = "unname"> unnamed </string>
+        <string name = "unknow" translatable = "false"> unknown </string>
+
+    <string name = "empty" translatable = "false"> "" </string>
+        <string name = "trim_video_keep" translatable = "false"> Reserved Selection </string>
+        <string name = "trim_video_remove"> Delete selection </string>
+        <string name = "trim_video_no_videoitem"> No video files! </string>
+        <string name = "trim_video_trimming"> Clipping video ... </string>
+        <string name = "trim_video_trim_cancel"> Video capture has been canceled! </string>
+        <string name = "trim_video_trim_failed"> Video capture failed! </string>
+        <string name = "trim_video_trim"> (intercept) </string>
+        <string name = "trim_video_seekbar_hint"> Drag the yellow area, select the video clips you want to keep </string>
+
+    <string name = "speed_control_video_seekbar_hint"> Drag the yellow area, select the area you want to adjust </string>
+        <string name = "trim_video_seekbar_hint_r"> Drag the black area, select the video clips you want to delete </string>
+        <string name = "speed_control_video_seekbar"> playback speed:% s </string>
+        <string name = "crop_video_croping"> Cropping video ... </string>
+        <string name = "crop_video_trim_cancel"> Video Cropped! </string>
+        <string name = "crop_video_trim_failed"> Video cropping failed! </string>
+        <string name = "crop_video_importing"> capturing video ... </string>
+        <string name = "crop_video_import_failed"> Video capture failed! </string>
+        <string name = "crop_video_import_cancel"> Video capture has been canceled! </string>
+
+    <string name = "crop_video_crop"> (crop) </string>
+        <string name = "trim_title"> Intercept </string>
+        <string name = "title_activity_video_share"> VideoShareActivity </string>
+        <string name = "getlocation"> add location </string>
+        <string name = "addlable"> add tag </string>
+        <string name = "title_activity_video_prieview"> VideoPrieviewActivity </string>
+        <string name = "priview_title"> preview </string>
+        <string name = "trim_ing"> intercepting ... </string>
+        <string name = "more_sight"> overall preview </string>
+
+    <string name = "end_sight"> End preview </string>
+        <string name = "more_orientation"> scale </string>
+        <string name = "orientation_title"> select the screen ratio </string>
+        <string name = "orientation_1_1"> 1: 1 </string>
+        <string name = "orientation_landscape"> horizontal screen </string>
+        <string name = "orientation_portrait"> vertical screen </string>
+        <string name = "orientation_auto"> auto </string>
+        <string name = "addmenu_addimage"> add image </string>
+        <string name = "addmenu_addvideo"> add video </string>
+    <string name = "addmenu_addtext"> Add WordPad </string>
+        <string name = "addmenu_transition"> Switch transitions </string>
+        <string name = "transition_default"> Use random transitions </string>
+        <string name = "transition_apply_to_all"> Apply to all transitions </string>
+        <string name = "select_camera_photo"> camera </string>
+        <string name = "select_camera_video"> video </string>
+        <string name = "crop_proportion_1x1"> 1: 1 </string>
+        <string name = "crop_proportion_original"> original </string>
+        <string name = "crop_proportion_free"> free </string>
+
+    <string name = "crop_rotate_mirror_reset"> reset </string>
+        <string name = "crop_rotate_free"> Scale: Free </string>
+        <string name = "crop_rotate_confirm"> OK crop </string>
+        <string name = "edit_music_add"> click Add soundtrack </string>
+        <string name = "edit_music_media_voice"> video original sound </string>
+        <string name = "musicVoice"> soundtrack </string>
+        <string name = "videoVoice"> original sound </string>
+        <string name = "edit_click_split"> click split </string>
+
+    <!-- 秀拍客改版 -->
+    <string name = "select_media_title_video"> video </string>
+        <string name = "select_media_title_photo"> image </string>
+        <string name = "import_info" formatted = "false"> Video:% d, Image:% d </string>
+        <string name = "import_info_video_only" formatted = "false"> Video:% d </string>
+        <string name = "import_info_photo_only" formatted = "false"> image:% d </string>
+        <string name = "edit_priview"> clip </string>
+        <string name = "continue_txt"> continue </string>
+        <string name = "preview_spilt"> split </string>
+        <string name = "preview_rotate"> rotate </string>
+        <string name = "preview_mirror"> mirror </string>
+
+    <string name = "preview_crop"> crop </string>
+        <string name = "preview_speed"> variable speed </string>
+        <string name = "preview_copy"> copy </string>
+        <string name = "preview_reverse"> reverse </string>
+        <string name = "preview_del"> delete </string>
+        <string name = "preview_sort"> order </string>
+        <string name = "preview_intercept"> Intercept </string>
+        <string name = "preview_img_duration"> image duration </string>
+        <string name = "preview_edit_pic"> edit </string>
+
+    <string name = "preview_text"> text </string>
+        <string name = "crop_free_title"> free cut </string>
+        <string name = "crop_normal_title"> Raw cut </string>
+        <string name = "crop_1x1_title"> Square crop </string>
+        <string name = "montage"> clip </string>
+        <string name = "dragged_into_trash"> drag into the trash delete </string>
+        <string name = "release_for_del"> Release Delete </string>
+        <string name = "speed_priview"> video speed </string>
+        <string name = "release_hand_for_del"> Release Handle </string>
+
+
+    <string name = "dragged_info_trash_del"> drag trash delete </string>
+        <string name = "music"> music </string>
+        <string name = "music2"> Music 2 </string>
+        <string name = "audio"> dubbing </string>
+        <string name = "subtitle"> subtitle </string>
+        <string name = "special"> special effects </string>
+        <string name = "filter"> filter </string>
+        <string name = "mv"> MV </string>
+        <string name = "transition"> transition </string>
+        <string name = "doodle"> graffiti </string>
+        <string name = "partedit"> Clip Editor </string>
+        <string name = "moreaudio"> multi-point score </string>
+
+    <string name = "theme"> theme </string>
+        <string name = "watermark"> watermark </string>
+        <string name = "export"> Export </string>
+        <string name = "add_subtitle"> add subtitle </string>
+        <string name = "add_special"> add effect </string>
+        <string name = "special_edit"> Edit Effect </string>
+        <string name = "drag_frame_for_subtitle_start_end"> Drag the border to adjust the starting end position of subtitle </string>
+        <string name = "edit_subtitle"> edit subtitle </string>
+        <string name = "subtitle_style"> style </string>
+        <string name = "subtitle_font_style"> font </string>
+        <string name = "subtitle_color"> color </string>
+        <string name = "bg_color"> background color </string>
+        <string name = "subtitle_size"> size </string>
+        <string name = "subtitle_stroke"> stroke </string>
+        <string name = "none"> none </string>
+        <string name = "music_origin_close"> none </string>
+
+    <string name = "music_none"> no sound </string>
+        <string name = "video_voice_n"> original sound on </string>
+        <string name = "video_voice_p"> Original Tune </string>
+        <string name = "local"> local </string>
+        <string name = "used"> Used </string>
+        <string name = "music_yun"> cloud music </string>
+        <string name = "complete"> done </string>
+        <string name = "crop_mirror_reset"> Restore </string>
+
+
+    <!-- 音乐 -->
+    <string name = "music_library"> Music Library </string>
+        <string name = "music_history"> Common </string>
+        <string name = "music_no_song"> no soundtrack </string>
+        <string name = "music_origin"> original sound </string>
+        <string name = "music_soundtrack"> soundtrack </string>
+        <string name = "music_soundtrack01"> soundtrack 1 </string>
+        <string name = "music_soundtrack02"> soundtrack 2 </string>
+        <string name = "music_soundtrack03"> soundtrack 3 </string>
+        <string name = "music_soundtrack04"> soundtrack 4 </string>
+        <string name = "music_soundtrack05"> soundtrack 5 </string>
+
+    <!-- 滤镜 -->
+    <string name = "filter_no_filter"> original </string>
+        <string name = "filter_01"> black and white </string>
+        <string name = "filter_02"> nostalgic </string>
+        <string name = "filter_03"> Filter 3 </string>
+        <string name = "filter_04"> Filter 4 </string>
+        <string name = "filter_05"> bronze </string>
+        <string name = "download_theme"> more topics </string>
+        <string name = "theme_none"> none </string>
+        <string name = "filter_06"> blue moment </string>
+        <string name = "filter_07"> cool </string>
+        <string name = "filter_08"> warm </string>
+        <string name = "filter_09"> yogurt </string>
+
+    <!-- 转场 -->
+    <string name = "show_style_item_download"> more </string>
+        <string name = "show_style_item_null"> none </string>
+        <string name = "show_style_item_recovery"> Fade in </string>
+        <string name = "show_style_item_flash_white"> flash white </string>
+        <string name = "show_style_item_flash_black"> flash black </string>
+        <string name = "show_style_item_to_left"> left push </string>
+        <string name = "show_style_item_to_right"> right push </string>
+        <string name = "show_style_item_to_up"> push </string>
+        <string name = "show_style_item_to_down"> pushdown </string>
+        <string name = "show_style_item_wind"> Blinds </string>
+        <string name = "show_style_item_watch"> hour hand </string>
+        <string name = "show_style_item_mosaic"> Mosaics </string>
+
+    <!-- 配音 -->
+    <string name = "audio_tip"> Press and hold dubbing, release dubbing ends </string>
+        <string name = "audio_press"> Hold dubbing </string>
+        <string name = "audio_remove_tip"> Click the button to delete the currently selected dub clip </string>
+        <string name = "audio_reset"> reassignment </string>
+        <string name = "audio_audition"> audition </string>
+        <string name = "start_record_program"> Start system recording program </string>
+        <string name = "play_recording"> play voice recording </string>
+        <string name = "start_recording"> start recording </string>
+        <string name = "stop_recording"> stop recording </string>
+        <string name = "start_record_by_audioRecord"> Recording using AudioRecord </string>
+        <string name = "stop_record_by_audioRecord"> Stop AudioRecord recording </string>
+        <string name = "start_play_by_audioTrack"> Play using AudioTrack </string>
+        <string name = "stop_play_by_audioTrack"> Stop AudioTreak play </string>
+        <string name = "sudio_synthesis"> Audio Synthesis </string>
+        <string name = "play_synthesis_audio"> Play synthesized audio </string>
+        <string name = "stop_synthesis_audio"> Stop playing synthesized audio </string>
+        <string name = "subtitle_cannot_no"> Please add subtitle </string>
+        <string name = "photo_duration"> duration </string>
+        <string name = "del"> delete </string>
+        <string name = "funny"> Funny </string>
+
+    <string name = "unclassified"> uncategorized </string>
+        <string name = "more"> more </string>
+        <string name = "et_subtitle_size"> font size </string>
+        <string name = "et_subtitle_ttf"> select font </string>
+        <string name = "et_subtitle_color"> font color </string>
+        <string name = "et_subtitle_edit"> Edit subtitle </string>
+        <string name = "sub_style"> subtitle style </string>
+        <string name = "split_duration_too_low"> Split video too short </string>
+        <string name = "split_check_video_length"> Please select video area </string>
+        <string name = "please_check_network"> No network available </string>
+        <string name = "loading_style"> loading style </string>
+        <string name = "last_split_cannt_del"> keep at least one video </string>
+        <string name = "add_failed"> The time zone is too short to add </string>
+        <string name = "livecamera_record_stop_record"> close </string>
+        <string name = "camera_filter"> original </string>
+        <string name = "camera_filter_blackboard"> blackboard </string>
+        <string name = "camera_filter_whiteboard"> whiteboard </string>
+        <string name = "camera_filter_sepia"> nostalgic </string>
+        <string name = "camera_filter_aqua"> cool color </string>
+        <string name = "camera_filter_mono"> black and white </string>
+        <string name = "camera_filter_posterize"> ink </string>
+        <string name = "camera_filter_solarize"> exposure </string>
+        <string name = "camera_filter_negative"> negative </string>
+
+    <string name = "activity_page_name_livecamera"> video </string>
+        <string name = "record_no_external_storage"> No memory card or memory card is not loaded! </string>
+        <string name = "record_use_internal_storage"> The current use of mobile phone storage space is small, may affect the video recording and editing! </string>
+        <string name = "camera_coder_error_video_config"> Invalid video parameters configured! </string>
+        <string name = "camera_coder_error_audio_config"> Invalid audio parameters configured! </string>
+        <string name = "livecamera_record_cannot_start"> Start recording failed! </string>
+        <string name = "livecamera_record_error"> Can not record video! </string>
+        <string name = "livecamera_do_sys_record"> recording using the system camera </string>
+        <string name = "livecamera_record_switch_filter_failed"> Toggle filter failed! </string>
+        <string name = "livecamera_record_open_flash_failed"> Can not open the flash! </string>
+        <string name = "livecamera_record_changeto_high_quelity"> switch to HD </string>
+        <string name = "livecamera_record_changeto_narmal_quelity"> switch to plain </string>
+        <string name = "livecamera_record_black_screen"> black screen </string>
+        <string name = "livecamera_record_continue"> Continue </string>
+        <string name = "livecamera_record_high_quelity"> HD </string>
+        <string name = "livecamera_record_normal_quelity"> Purity </string>
+        <string name = "pause"> pause </string>
+        <string name = "main_entry_allvideos"> All Videos </string>
+        <string name = "main_entry_kx_video"> show video </string>
+        <string name = "main_entry_myvideos"> my video </string>
+        <string name = "record_video"> record video </string>
+
+
+    <string name = "record_video_tooshort"> Please try to record longer </string>
+        <string name = "record_video_not_enough_space"> There is not enough space to stop recording! </string>
+        <string name = "exit_black_screen"> double-click to exit blank screen </string>
+        <string name = "record_video_duration_time"> Maximum video duration, recording stopped! </string>
+        <string name = "activity_label_sightseeing_file"> select folder or file </string>
+        <string name = "scan_media"> Scan Music </string>
+        <string name = "mymusic"> my soundtrack </string>
+        <string name = "localmusic"> local library </string>
+        <string name = "histroymusic"> recently used </string>
+        <string name = "download_more_music"> Download More Sounds </string>
+        <string name = "music_history_delete"> Delete Recent </string>
+        <string name = "activity_label_select_music"> select soundtrack </string>
+        <string name = "activity_label_select_transition"> transitions </string>
+        <string name = "activity_label_select_theme"> theme </string>
+        <string name = "activity_label_manage_transition"> Admin </string>
+        <string name = "addaudio"> add soundtrack </string>
+        <string name = "editaudio"> Edit soundtrack </string>
+        <string name = "select_medias"> select property </string>
+        <string name = "downloading"> downloading resources, please wait ... </string>
+        <string name = "download_error"> Unable to download. </string>
+        <string name = "default_ttf"> default font </string>
+        <string name = "show_error_for_ttf_by_net"> No network available, unable to display full font list </string>
+        <string name = "isloading"> loading .... </string>
+        <string name = "resdownloading"> downloading resources, please try again later ... </string>
+
+    <string name = "addsub_video_head_failed"> captions can not add subtitles! </string>
+        <string name = "addsub_video_end_failed"> Captions can not be added to the trailer! </string>
+        <string name = "addsub_video_between_failed"> The area is too small to add subtitles! </string>
+        <string name = "addspecial_video_head_failed"> Theme title can not be added! </string>
+        <string name = "addspecial_video_end_failed"> Can not add special effects to end of trailer! </string>
+        <string name = "addspecial_video_between_failed"> too short time to add effects! </string>
+        <string name = "addaudio_video_head_failed"> Can not add dubbing to titles! </string>
+        <string name = "addaudio_video_end_failed"> dubbing can not be added to the trailer! </string>
+        <string name = "addaudio_video_between_failed"> The time zone is too short to add dubbing! </string>
+        <string name = "editvideopriview"> video editing </string>
+        <string name = "drag_for_sub"> Drag the border and adjust the start position of the subtitle </string>
+        <string name = "drag_for_sp"> Drag the border and adjust the starting position of the effect </string>
+        <string name = "drag_for_split"> drag to select split position </string>
+        <string name = "drag_for_listview"> long press and drag to adjust order yo </string>
+        <string name = "try_split"> try segmentation function, can cut out the unwanted images yo </string>
+        <string name = "drag_thumb_for_insert_sub"> Drag thumbnail to confirm subtitle insertion position </string>
+        <string name = "drag_thumb_for_insert_sp"> Drag the thumbnail to confirm the effect insertion position </string>
+        <string name = "drag_broder_for_crop"> drag the four corners can be cut to the proportion of video </string>
+        <string name = "onclick_for_del"> confirm again delete </string>
+        <string name = "dialog_for_split"> Divide the video into multiple sections \ n Delete unneeded sections </string>
+
+    <string name = "whatissplit"> What is video segmentation? </string>
+        <string name ="auto_transition"> Click the small icon to change the transition style! </string>
+        <string name ="fix_video"> Please select video file </string>
+        <string name ="begin_scan"> start scanning </string>
+        <string name ="check_all"> select all </string>
+        <string name ="check_cancel"> negative selection </string>
+        <string name ="reload"> reload </string>
+        <string name ="please_open_wifi"> No network available </string>
+        <string name ="load_web_error"> Failed to load webpage data </string>
+    <string name ="load_http_failed"> Failed to load data </string>
+    <string name ="timeout"> Request timeout </string>
+
+        <string name = "add"> add </string>
+        <string name = "all_video"> All Videos </string>
+        <string name = "gallery_video"> album video </string>
+        <string name = "app_video"> App video </string>
+        <string name = "video_save_success"> saved video </string>
+        <string name = "video_save_fail"> Video save failed </string>
+        <string name = "camera_min_limit_text"> small master, press me for a while </string>
+        <string name = "photo_save_success"> saved photos </string>
+        <string name = "photo_save_fail"> Photo save failed </string>
+        <string name = "exporting"> Please be patient while exporting video ... </string>
+
+    <string name = "reversing"> In reverse order, please wait ... </string>
+        <string name = "reverse_cancel"> The video has not been reversely completed, is it canceled? </string>
+        <string name = "export_preparing"> Export Preparation ... </string>
+        <string name = "export_failed"> Export failed ... </string>
+        <string name = "export_failed_no_free_space"> export failed, insufficient storage space! </string>
+        <string name = "export_canceled"> "Export canceled! </string>"
+        <string name = "filter_lomo"> LOMO set </string>
+        <string name = "filter_bomo"> Dusk set </string>
+        <string name = "filter_gete"> goth set </string>
+
+    <string name = "filter_huaijiu" translatable = "false"> nostalgia </string>
+        <string name = "filter_lengdiao"> Cool Set </string>
+        <string name = "filter_wucha"> lunch set </string>
+        <string name = "filter_yishu"> art collection </string>
+        <string name = "filter_yese"> night set </string>
+        <string name = "sub_hint"> Click to enter subtitle! </string>
+        <string name = "apply_to_all"> Apply to all images </string>
+        <string name = "transition_random"> random </string>
+        <string name = "transition_dialog_description"> Are you sure you want to apply random transitions? This will clear the content that has been set! </string>
+        <string name = "camare_filter_0"> original </string>
+        
+        <string name = "hint_music_search"> search for music </string>
+    
+    <!--
+    <string name="camare_filter_1">欧洲</string>
+    <string name="camare_filter_2">街拍</string>
+    <string name="camare_filter_3">暴走</string>
+    <string name="camare_filter_4">里约</string>
+    <string name="camare_filter_5">聚光</string>
+    <string name="camare_filter_6">候鸟</string>
+    <string name="camare_filter_7">云端</string>
+    <string name="camare_filter_8">流连</string>
+    <string name="camare_filter_9">原图</string>
+
+  
+    <string name="camare_filter_10">原图</string>
+    <string name="camare_filter_11">原图</string>
+    <string name="camare_filter_12">原图</string>
+    <string name="camare_filter_13">原图</string>
+    <string name="camare_filter_14">原图</string>
+    <string name="camare_filter_15">原图</string>
+    <string name="camare_filter_16">原图</string>
+    <string name="camare_filter_17">原图</string>
+    <string name="camare_filter_18">原图</string>
+    <string name="camare_filter_19">原图</string>
+    <string name="camare_filter_20">原图</string>
+    <string name="camare_filter_21">原图</string>
+    <string name="camare_effect_0">原始</string>
+
+
+
+
+
+
+
+
+
+
+
+    -->
+    <!--
+    <string name="camare_effect_1">黑白</string>
+    <string name="camare_effect_2">怀旧</string>
+    <string name="camare_effect_3">冷色</string>
+    <string name="camare_effect_4">暖色</string>
+    <string name="camare_effect_5">古铜色</string>
+    <string name="camare_effect_6">蓝色时刻</string>
+    <string name="camare_effect_7">冷艳</string>
+    <string name="camare_effect_8">暖洋洋</string>
+    <string name="camare_effect_9">优格</string>
+
+
+
+
+
+
+
+
+
+
+
+    -->
+    <string name = "just_only_one_video"> keep at least one video </string>
+        <string name = "just_only_one_image"> only one picture, can not be deleted </string>
+
+    <!-- 横屏使用 -->
+    <string name = "land_speed_title"> Speed ​​</string>
+
+    <!-- 对话框提示 -->
+    <string name = "cancel_all_changed"> OK to give up all operations? </string>
+        <string name = "quit_edit"> Are you sure you want to quit editing? </string>
+        <string name = "quit_partedit"> Are you sure you want to forego fragment editing? </string>
+        <string name = "remove_item"> Delete this media item? </string>
+        <string name = "album_no_all"> You have not selected a picture or video! </string>
+        <string name = "album_no_video"> You have not selected the video yo! </string>
+        <string name = "album_no_photo"> You have not selected the picture yo! </string>
+        <string name = "album_dialog_ok"> I got it </string>
+        <string name = "image_duration_apply_to_all"> Are you sure you want to apply to all images? </string>
+        <string name = "proportion_change_to_auto"> There are horizontal video, vertical screen is not good, the system will choose the best screen </string>
+        <string name = "video_duration_too_short_to_split"> video is less than 0.5 seconds, can not be divided </string>
+        <string name = "video_duration_too_short_to_transition"> video is less than 0.5 seconds, can not add transition </string>
+        <string name = "video_duration_too_short_to_trim"> video is less than 1 second and can not be intercepted </string>
+        <string name = "export_duration_limit"> The current video duration has exceeded the maximum export time limit (% d seconds). You can close the prompt to adjust, or continue to export </string>
+        <string name = "cancel_export"> The video has not been exported yet, is it canceled? </string>
+    <!-- 人脸贴纸 -->
+    <string name = "camare_fu_beauty"> beauty </string>
+        <string name = "fu_blue"> Dermabrasion </string>
+        <string name = "fu_color"> whitening </string>
+        <string name = "fu_thin"> face-lift </string>
+        <string name = "fu_eye"> big eye </string>
+        <string name = "camare_filter"> filter </string>
+        <string name = "camare_face_filter"> stickers </string>
+
+    <!-- 压缩 -->
+    <string name = "compress_add_error"> video creation error </string>
+        <string name = "compress_hc_error"> Encoding error occurred after turning on hardware acceleration, please try again and try again </string>
+        <string name = "compress_cancel"> Uncompress </string>
+
+    <!-- 错误相关 -->
+
+    <string name = "string_null"> "" </string>
+        <string name = "error_preview_retry"> Temporarily unable to preview, please try again! </string>
+        <string name = "error_preview_crop"> Unable to preview the current clip! </string>
+        <string name = "blackboard_text"> text board </string>
+        <string name = "edit_photo"> edit image </string>
+        <string name = "yes"> is </string>
+        <string name = "no"> No </string>
+        <string name = "canceling"> cancel ... </string>
+        <string name = "trim_support_video_only"> Intercept feature only supports video files </string>
+
+    <!-- 录制 -->
+    <string name = "permission_camera_error"> not allowed to use the camera! </string>
+        <string name = "permission_ablum_error"> Unable to read album! </string>
+        <string name = "permission_camera_error_p_allow"> The camera can not be opened, please open the camera permissions! </string>
+        <string name = "permission_audio_error"> Audio recording is not allowed! </string>
+        <string name = "permission_audio_error_p_allow"> unable to record, please open the recording permission! </string>
+        <string name = "exit"> exit </string>
+        <string name = "setting"> setting </string>
+        <string name = "m_short_mv">% d seconds \ n \ tMV </string>
+        <string name = "m_short_mv_no_line">% d seconds MV </string>
+        <string name = "sd_not_enough_record"> Insufficient memory space to record video! </string>
+        <string name = "dialog_tips"> Tips </string>
+        <string name = "error_code"> error code% d </string>
+        <string name = "undefine"> undefined </string>
+        <string name = "media_select"> media selection </string>
+        <string name = "unsupport_video_o_photo"> unsupported image or video! </string>
+        <string name = "iknow"> I got it </string>
+        <string name = "event_select_media_num"> select number of media </string>
+        <string name = "once_un_exceed_num"> Single select media can not exceed% d </string>
+        <string name = "sd_umount"> The current memory card is not mounted </string>
+        <string name = "p_select_dir"> Please select the folder </string>
+        <string name = "isdelete"> Delete this media item? </string>
+    <string name = "long_s">% s seconds </string>
+        <string name = "error_preview_trim"> Can not preview the current clip! </string>
+        <string name = "cancel_export_video"> The video has not been exported yet, is it canceled? </string>
+        <string name = "video_edit_ac_name"> Advanced Editing </string>
+        <string name = "un_allow_video_photo"> not allowed to read pictures, video! </string>
+        <string name = "trans_need_two_medias"> At least two images or videos are required for the transition! </string>
+        <string name = "other_menu"> other menu </string>
+        <string name = "close"> Close </string>
+        <string name = "thrid_app_play"> Third-party playback </string>
+        <string name = "xpk_play"> xpk play video </string>
+        <string name = "method_select_media2"> select media number two </string>
+        <string name = "allvideo"> All Videos </string>
+        <string name = "allphoto"> all images </string>
+        <string name = "ablum"> album </string>
+
+    <!-- 配音 -->
+    <string name = "error_record_audio_retry"> recording failed, please try again! </string>
+        <string name = "record_audio_too_short_retry"> recording time is too short, please try again! </string>
+        <string name = "history_recently"> Recently used </string>
+        <string name = "sure_delete"> Confirm deletion? </string>
+        <string name = "local_music"> local music </string>
+        <string name = "downloaded"> downloaded </string>
+        <string name = "the_song_not_support_retry"> The soundtrack does not exist or is not supported, please select again! </string>
+        <string name = "prepareMV"> preparing MV ... </string>
+        <string name = "internal_music"> built-in music </string>
+        <string name = "total_edit_items">% d total fragments </string>
+        <string name = "unit"> </string>
+        <string name = "isdownloading_sure_cancel"> downloading, cancel </string>
+        <string name = "download_ing"> downloading </string>
+        <string name = "download_over"> done </string>
+        <string name = "hint_text"> Please enter the text "</string>"
+        <string name = "add_graffiti"> add graffiti </string>
+        <string name = "graffiti_paint"> graffiti pen </string>
+        <string name = "eraser"> eraser </string>
+        <string name = "prompt"> prompt </string>
+        <string name = "paint_with_5"> The current brush width is: 5 </string>
+        <string name = "isdeveloping_p_look"> under development, so stay tuned </string>
+        <string name = "test"> test \ n immortality </string>
+
+</resources>

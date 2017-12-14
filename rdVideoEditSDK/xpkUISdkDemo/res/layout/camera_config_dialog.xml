@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvCameraSupport"
+                android:layout_marginTop="-20dp"
+                android:background="@drawable/layout_stroke"
+                android:orientation="vertical"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="20dp" >
+
+                <!-- 视频 -->
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/cbRec"
+                        android:layout_marginTop="-20dp"
+                        android:background="@drawable/layout_stroke"
+                        android:orientation="vertical"
+                        android:paddingTop="20dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/textView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="10dp"
+                                android:text="Record the minimum duration："
+                                android:textColor="#ffffff"
+                                android:textSize="17dp" />
+
+                            <EditText
+                                android:id="@+id/etCameraMinTime"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginRight="5dp"
+                                android:background="@drawable/layout_stroke"
+                                android:gravity="center"
+                                android:hint="The default 0 is not limited, in seconds"
+                                android:inputType="number"
+                                android:padding="5dp"
+                                android:textColor="#ffffff" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/llCameraMaxTime"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="5dp"
+                            android:layout_marginTop="5dp"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="10dp"
+                                android:text="Maximum recording time:"
+                                android:textColor="#ffffff"
+                                android:textSize="17dp" />
+
+                            <EditText
+                                android:id="@+id/etCameraMaxTime"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginRight="5dp"
+                                android:background="@drawable/layout_stroke"
+                                android:gravity="center"
+                                android:hint="The default 0 is not limited, in seconds"
+                                android:inputType="number"
+                                android:padding="5dp"
+                                android:textColor="#ffffff" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <CheckBox
+                        android:id="@+id/cbRec"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="10dp"
+                        android:background="#000000"
+                        android:text="video" />
+                </RelativeLayout>
+
+                <!-- MV -->
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/cbMV"
+                        android:layout_marginTop="-20dp"
+                        android:background="@drawable/layout_stroke"
+                        android:orientation="vertical"
+                        android:paddingTop="20dp" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="10dp"
+                                android:text="MV minimum duration:"
+                                android:textColor="#ffffff"
+                                android:textSize="17dp" />
+
+                            <EditText
+                                android:id="@+id/etCameraMVMinTime"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginRight="5dp"
+                                android:background="@drawable/layout_stroke"
+                                android:gravity="center"
+                                android:hint="The default is unlimited, in seconds"
+                                android:inputType="number"
+                                android:padding="5dp"
+                                android:textColor="#ffffff" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="10dp"
+                                android:text="MV maximum duration:"
+                                android:textColor="#ffffff"
+                                android:textSize="17dp" />
+
+                            <EditText
+                                android:id="@+id/etCameraMVMaxTime"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginRight="5dp"
+                                android:background="@drawable/layout_stroke"
+                                android:gravity="center"
+                                android:hint="The default is 15 seconds, in seconds"
+                                android:inputType="number"
+                                android:padding="5dp"
+                                android:textColor="#ffffff" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <CheckBox
+                        android:id="@+id/cbMV"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginLeft="10dp"
+                        android:background="#000000"
+                        android:text="Short video MV" />
+                </RelativeLayout>
+
+                <!-- 照片 -->
+
+                <CheckBox
+                    android:id="@+id/cbPhoto"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="photo" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvCameraSupport"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:background="#000000"
+                android:gravity="center"
+                android:text="Shooting support mode"
+                android:textColor="#ffffff"
+                android:textSize="17dp" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Camera default setting:"
+            android:textColor="#ffffff"
+            android:textSize="17dp" />
+
+        <RadioGroup
+            android:id="@+id/rgIsRearCamera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/layout_stroke"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rbFrontCamera"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Front" />
+
+            <RadioButton
+                android:id="@+id/rbRearCamera"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Rear" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Shooting mode setting:"
+            android:textColor="#ffffff"
+            android:textSize="17dp" />
+
+        <RadioGroup
+            android:id="@+id/rgCameraMode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/layout_stroke"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rbSingleShoot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Single shot" />
+
+            <RadioButton
+                android:id="@+id/rbMultiShoot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Multiple shots" />
+        </RadioGroup>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" >
+
+            <Switch
+                android:id="@+id/swIsSaveToAlbum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textOff="  "
+                android:textOn="  "
+                android:thumb="@drawable/switch_thumb"
+                android:track="@drawable/switch_track" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:layout_toRightOf="@+id/swIsSaveToAlbum"
+                android:text="Whether a single shot is saved to an album"
+                android:textColor="#ffffff"
+                android:textSize="17dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" >
+
+            <Switch
+                android:id="@+id/swEnableAlbum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textOff="  "
+                android:textOn="  "
+                android:thumb="@drawable/switch_thumb"
+                android:track="@drawable/switch_track" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:layout_toRightOf="@+id/swEnableAlbum"
+                android:text="Whether to display the album button"
+                android:textColor="#ffffff"
+                android:textSize="17dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp" >
+
+            <Switch
+                android:id="@+id/swUseCustomAlbum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textOff="  "
+                android:textOn="  "
+                android:thumb="@drawable/switch_thumb"
+                android:track="@drawable/switch_track" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:layout_toRightOf="@+id/swUseCustomAlbum"
+                android:text="Whether to use custom albums"
+                android:textColor="#ffffff"
+                android:textSize="17dp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_margin="10dp"
+                android:text="Whether to enable face recognition and stickers (android4.3 and above support):"
+                android:textColor="#ffffff"
+                android:textSize="17dp" />
+
+            <RadioGroup
+                android:id="@+id/rgCameraFaceGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/layout_stroke"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/rbEnableFace"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Open" />
+
+                <RadioButton
+                    android:id="@+id/rbUnableFace"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="shut down" />
+            </RadioGroup>
+        </LinearLayout>
+
+        <!-- 水印 -->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/cbOsd"
+                android:layout_marginTop="-20dp"
+                android:background="@drawable/layout_stroke"
+                android:orientation="vertical"
+                android:paddingTop="20dp" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:text="Watermark end time："
+                        android:textColor="#ffffff"
+                        android:textSize="17dp" />
+
+                    <EditText
+                        android:id="@+id/etOsdEnd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/layout_stroke"
+                        android:gravity="center"
+                        android:hint="Range (0-1.0f) in seconds"
+                        android:inputType="numberDecimal"
+                        android:padding="5dp"
+                        android:textColor="#ffffff" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <CheckBox
+                android:id="@+id/cbOsd"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="10dp"
+                android:background="#000000"
+                android:text="Camera watermark" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/layout_stroke"
+            android:padding="10dp" >
+
+            <CheckBox
+                android:id="@+id/cbAntiChange"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:background="#000000"
+                android:text="Enable tamper-resistant recording" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</ScrollView>

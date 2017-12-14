@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#33333b"
+              android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Video Editor"
+        android:textColor="#ffffff"
+        android:textSize="18dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    style="@style/txtStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Record / shoot"
+                    android:textColor="#88ffffff"/>
+
+                <Button
+                    android:id="@+id/xpk_camera_config"
+                    style="@style/buttonStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/layout_stroke"
+                    android:onClick="onVideo"
+                    android:padding="5dp"
+                    android:text="Set"/>
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpkrec_square"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(1)Square rec"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpkrec_wide"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(2)Full screen rec"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpkrec"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(3) square, full, switch rec."/>
+            <Button
+                android:id="@+id/xpkrec_AntiChange"
+                style="@style/buttonStyle"
+
+                android:text="xpkrec_AntiChange"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:background="#88ffffff"/>
+
+            <!-- <Button -->
+            <!-- android:id="@+id/xpkrec_anti_change" -->
+            <!-- style="@style/buttonStyle" -->
+            <!-- android:onClick="onVideo" -->
+            <!-- android:text="(4)防改录制" /> -->
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    style="@style/txtStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Video editing"
+                    android:textColor="#88ffffff"/>
+
+                <Button
+                    android:id="@+id/xpk_ui_config"
+                    style="@style/buttonStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/layout_stroke"
+                    android:onClick="onVideo"
+                    android:padding="5dp"
+                    android:text="Set"/>
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpkedit"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(1)No album selection, enter edit"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpk"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(2)Choose from albums to edit"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    style="@style/txtStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Short video (configured by video editing)"
+                    android:textColor="#88ffffff"/>
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpkSVideoEdit"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(1)15 seconds short video"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:background="#88ffffff"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    style="@style/txtStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Video capture"
+                    android:textColor="#88ffffff"/>
+
+                <Button
+                    android:id="@+id/xpk_trim_config"
+                    style="@style/buttonStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/layout_stroke"
+                    android:onClick="onVideo"
+                    android:padding="5dp"
+                    android:text="Set"/>
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpk_trim_l"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(1)Horizontal screen video"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpk_trim_p"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(2)Vertical screen video"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpk_trim_s"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(3)Square video"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    style="@style/txtStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Album"
+                    android:textColor="#88ffffff"/>
+
+                <Button
+                    android:id="@+id/xpk_album_config"
+                    style="@style/buttonStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/layout_stroke"
+                    android:onClick="onVideo"
+                    android:padding="5dp"
+                    android:text="Set"/>
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpk_default_album"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(1)Picture + video"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpk_only_video"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(2)Only show video"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_marginLeft="10dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpk_only_photo"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="(3)Only pictures are displayed"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    style="@style/txtStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="compression"
+                    android:textColor="#88ffffff"/>
+
+                <Button
+                    android:id="@+id/xpk_compress_config"
+                    style="@style/buttonStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/layout_stroke"
+                    android:onClick="onVideo"
+                    android:padding="5dp"
+                    android:text="Set"/>
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpk_compress"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="Compress video"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    style="@style/txtStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="other"
+                    android:textColor="#88ffffff"/>
+
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/xpk_player"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="player"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+
+            <Button
+                android:id="@+id/reset_config"
+                style="@style/buttonStyle"
+                android:onClick="onVideo"
+                android:text="Reset settings"/>
+            <Button
+                android:id="@+id/xpk_AntiChange_config"
+                style="@style/buttonStyle"
+
+                android:text="AntiChange"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:background="#88ffffff"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/xpk"
+            style="@style/txtStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:onClick="onVideo"
+            android:text="Open the video editor (mode one) album" />
+
+        <Button
+            android:id="@+id/xpkrec"
+            style="@style/txtStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:onClick="onVideo"
+            android:text="Record and edit" />
+
+        <Button
+            android:id="@+id/xpk_player"
+            style="@style/txtStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:onClick="onVideo"
+            android:text="player" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/xpkedit"
+            style="@style/txtStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:onClick="onVideo"
+            android:text="Open the video editor (way two)" />
+
+        <Button
+            android:id="@+id/xpkrec_back"
+            style="@style/txtStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:onClick="onVideo"
+            android:text="Simple recording" />
+
+        <Button
+            android:id="@+id/xpk_trim"
+            style="@style/txtStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:onClick="onVideo"
+            android:text="Intercept" />
+    </LinearLayout>
+
+</LinearLayout>

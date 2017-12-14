@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="UI settings"
+            android:textColor="#ffffff"
+            android:textSize="17dp" />
+
+        <RadioGroup
+            android:id="@+id/rgOrientation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/layout_stroke"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rbOrientationPortrait"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Lock vertical" />
+
+            <RadioButton
+                android:id="@+id/rbOrientationLandscape"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Lock horizontal" />
+
+            <RadioButton
+                android:id="@+id/rbOrientationAuto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Automatically switch" />
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="10dp" >
+
+            <Switch
+                android:id="@+id/swWizard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textOff="  "
+                android:textOn="  "
+                android:thumb="@drawable/switch_thumb"
+                android:track="@drawable/switch_track" />
+
+            <TextView
+                android:id="@+id/tvWizard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Turn off wizard mode"
+                android:textColor="#ffffff"
+                android:textSize="17dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="10dp" >
+
+            <Switch
+                android:id="@+id/swAutoRepeat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textOff="  "
+                android:textOn="  "
+                android:thumb="@drawable/switch_thumb"
+                android:track="@drawable/switch_track" />
+
+            <TextView
+                android:id="@+id/tvAutoRepeat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Turn off automatic replay"
+                android:textColor="#ffffff"
+                android:textSize="17dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <RadioGroup
+                android:id="@+id/rgSoundTrack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/soundTrack"
+                android:layout_marginTop="-20dp"
+                android:background="@drawable/layout_stroke"
+                android:clickable="false"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="20dp" >
+
+                <RadioButton
+                    android:id="@+id/rbSoundTrak1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Soundtrack one" />
+
+                <RadioButton
+                    android:id="@+id/rbSoundTrak2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Soundtrack two" />
+            </RadioGroup>
+
+            <CheckBox
+                android:id="@+id/soundTrack"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:background="#000000"
+                android:text="Soundtrack" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <RadioGroup
+                android:id="@+id/rgVoiceTrack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/VoiceTrack"
+                android:layout_marginTop="-20dp"
+                android:background="@drawable/layout_stroke"
+                android:clickable="false"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="20dp" >
+
+                <RadioButton
+                    android:id="@+id/rbVoiceTrak1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:minHeight="100dp"
+                    android:text="Dubbing one" />
+
+                <RadioButton
+                    android:id="@+id/rbVoiceTrak2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Dubbing two (only valid when the soundtrack is on)" />
+            </RadioGroup>
+
+            <CheckBox
+                android:id="@+id/VoiceTrack"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:background="#000000"
+                android:text="Dubbing" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <RadioGroup
+                android:id="@+id/rgFilter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/filter"
+                android:layout_marginTop="-20dp"
+                android:background="@drawable/layout_stroke"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="20dp" >
+
+                <RadioButton
+                    android:id="@+id/rbFilter1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Filter one" />
+
+                <RadioButton
+                    android:id="@+id/rbFilter2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Filter two" />
+            </RadioGroup>
+
+            <CheckBox
+                android:id="@+id/filter"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:background="#000000"
+                android:text="Filter" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/mv"
+                style="@style/checkboxStyle"
+                android:text="MV" />
+
+            <CheckBox
+                android:id="@+id/specialEffects"
+                style="@style/checkboxStyle"
+                android:text="Special effects" />
+
+            <CheckBox
+                android:id="@+id/titling"
+                style="@style/checkboxStyle"
+                android:text="subtitle" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/clipEditing"
+                android:layout_marginTop="-20dp"
+                android:background="@drawable/layout_stroke"
+                android:orientation="vertical"
+                android:paddingTop="20dp" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <CheckBox
+                        android:id="@+id/edit"
+                        style="@style/checkboxStyle"
+                        android:text="edit" />
+
+                    <CheckBox
+                        android:id="@+id/trim"
+                        style="@style/checkboxStyle"
+                        android:text="Intercept" />
+
+                    <CheckBox
+                        android:id="@+id/split"
+                        style="@style/checkboxStyle"
+                        android:text="segmentation" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <CheckBox
+                        android:id="@+id/sort"
+                        style="@style/checkboxStyle"
+                        android:text="Ordering" />
+
+                    <CheckBox
+                        android:id="@+id/copy"
+                        style="@style/checkboxStyle"
+                        android:text="copy" />
+
+                    <CheckBox
+                        android:id="@+id/imageDurationControl"
+                        style="@style/checkboxStyle"
+                        android:text="Image duration" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="3" >
+
+                    <CheckBox
+                        android:id="@+id/videoSpeedControl"
+                        style="@style/checkboxStyle"
+                        android:text="Video speed" />
+
+                    <CheckBox
+                        android:id="@+id/text"
+                        style="@style/checkboxStyle"
+                        android:text="Text board" />
+
+                    <CheckBox
+                        android:id="@+id/reverse"
+                        style="@style/checkboxStyle"
+                        android:text="reverse text board" />
+                    
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp" >
+
+                    <RadioGroup
+                        android:id="@+id/rgProportion"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/proportion"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginTop="-20dp"
+                        android:background="@drawable/layout_stroke"
+                        android:orientation="horizontal"
+                        android:paddingTop="20dp" >
+
+                        <RadioButton
+                            android:id="@+id/rbProportionAuto"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="automatic" />
+
+                        <RadioButton
+                            android:id="@+id/rbProportionSquare"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="1:1" />
+
+                        <RadioButton
+                            android:id="@+id/rbProportionLandscape"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="16:9" />
+                    </RadioGroup>
+
+                    <CheckBox
+                        android:id="@+id/proportion"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="10dp"
+                        android:background="#000000"
+                        android:text="Screen ratio" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <CheckBox
+                android:id="@+id/clipEditing"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:background="#000000"
+                android:text="Fragment editing" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Edit supported file types："
+            android:textColor="#ffffff"
+            android:textSize="17dp" />
+
+        <RadioGroup
+            android:id="@+id/rgSupportFormat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/layout_stroke"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rbSupportVideoOnly"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Video only" />
+
+            <RadioButton
+                android:id="@+id/rbSupportImageOnly"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Picture only" />
+
+            <RadioButton
+                android:id="@+id/rbSupportDefault"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Video + picture" />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Export settings"
+            android:textColor="#ffffff"
+            android:textSize="17dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Limit export video time："
+                android:textColor="#ffffff"
+                android:textSize="17dp" />
+
+            <EditText
+                android:id="@+id/etTimeLimit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/layout_stroke"
+                android:gravity="center"
+                android:hint="The default 0 is not limited, in seconds"
+                android:numeric="integer"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+        <CheckBox
+            android:id="@+id/videoTrailer"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="Tail watermark" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/watermark"
+                android:layout_marginTop="-20dp"
+                android:background="@drawable/layout_stroke"
+                android:orientation="vertical"
+                android:paddingTop="20dp" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:text="x-axis："
+                        android:textColor="#ffffff"
+                        android:textSize="17dp" />
+
+                    <EditText
+                        android:id="@+id/etWatermarkXAxis"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/layout_stroke"
+                        android:gravity="center"
+                        android:hint="Range 0-1.0"
+                        android:inputType="numberDecimal"
+                        android:padding="5dp"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:text="y axis："
+                        android:textColor="#ffffff"
+                        android:textSize="17dp" />
+
+                    <EditText
+                        android:id="@+id/etWatermarkYAxis"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/layout_stroke"
+                        android:gravity="center"
+                        android:hint="Range 0-1.0"
+                        android:inputType="numberDecimal"
+                        android:padding="5dp"
+                        android:textColor="#ffffff" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:text="x-axis scaling："
+                        android:textColor="#ffffff"
+                        android:textSize="17dp" />
+
+                    <EditText
+                        android:id="@+id/etWatermarkXZoom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/layout_stroke"
+                        android:gravity="center"
+                        android:hint="The default is 1"
+                        android:inputType="numberDecimal"
+                        android:padding="5dp"
+                        android:textColor="#ffffff" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:text="y-axis scaling："
+                        android:textColor="#ffffff"
+                        android:textSize="17dp" />
+
+                    <EditText
+                        android:id="@+id/etWatermarkYZoom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/layout_stroke"
+                        android:gravity="center"
+                        android:hint="The default is 1"
+                        android:inputType="numberDecimal"
+                        android:padding="5dp"
+                        android:textColor="#ffffff" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <CheckBox
+                android:id="@+id/watermark"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:background="#000000"
+                android:text="Video watermarking" />
+        </RelativeLayout>
+
+        <CheckBox
+            android:id="@+id/subTitleOuter"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:background="#000000"
+            android:text="Subtitles are shown outside of the MV" />
+
+        <CheckBox
+            android:id="@+id/specialOuter"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:background="#000000"
+            android:text="Effects are shown outside of the MV" />
+    </LinearLayout>
+
+</ScrollView>

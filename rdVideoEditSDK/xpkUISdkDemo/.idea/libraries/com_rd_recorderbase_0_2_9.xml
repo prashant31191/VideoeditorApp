@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.rd:recorderbase-0.2.9">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../xpkUISdk/build/intermediates/exploded-aar/com.rd/recorderbase/0.2.9/res" />
+      <root url="jar://$PROJECT_DIR$/../xpkUISdk/build/intermediates/exploded-aar/com.rd/recorderbase/0.2.9/jars/libs/recorderbase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xpkUISdk/build/intermediates/exploded-aar/com.rd/recorderbase/0.2.9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rd/recorderbase/0.2.9/7ec48fe0a3812b16479cd5d55f17ec9c8c3d8786/recorderbase-0.2.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

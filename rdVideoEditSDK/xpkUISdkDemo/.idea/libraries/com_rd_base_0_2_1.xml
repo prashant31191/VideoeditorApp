@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.rd:base-0.2.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../xpkUISdk/build/intermediates/exploded-aar/com.rd/base/0.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/../xpkUISdk/build/intermediates/exploded-aar/com.rd/base/0.2.1/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../xpkUISdk/build/intermediates/exploded-aar/com.rd/base/0.2.1/jars/libs/com.rd.base.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rd/base/0.2.1/ea3ba125c12fb68571e25f7324a84d19b96686f1/base-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

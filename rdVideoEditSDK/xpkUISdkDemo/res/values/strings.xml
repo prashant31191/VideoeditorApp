@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="video_isAntiChang">This video is tamper-proof video</string>
+    <string name="osd_title">Watermark content：</string>
+    <string name="osd_hint">Please enter the watermark content</string>
+    <string name="osd_content">× × × Sales Office × × × clerk \ n clerk number: 0001 \ n business name: xxxx \ n customer ID number: 500233yyyymmddxxxx</string>
+
+</resources>

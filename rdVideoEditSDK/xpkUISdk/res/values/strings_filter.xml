@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <!-- 相机滤镜 -->
+    <string name = "camera_effect_0"> original </string>
+        <string name = "camera_effect_5"> warm air float "</string>
+        <string name = "camera_effect_6"> Bao </string>
+        <string name = "camera_effect_7"> dream </string>
+        <string name = "camera_effect_8"> latte </string>
+        <string name = "camera_effect_9"> vitality </string>
+        <string name = "camera_effect_10"> elegant </string>
+        <string name = "camera_effect_11"> runaway </string>
+        <string name = "camera_effect_12"> Street beat </string>
+        <string name = "camera_effect_13"> European station </string>
+        <string name = "camera_effect_14"> Rio </string>
+        <string name = "camera_effect_15"> stream </string>
+        <string name = "camera_effect_16"> Spotlight </string>
+        <string name = "camera_effect_17"> migratory </string>
+        <string name = "camera_effect_18"> Cloud </string>
+        <string name = "camera_effect_19"> rainbow waterfall </string>
+        <string name = "camera_effect_20"> elegant </string>
+
+    <string name = "camera_effect_21"> yogurt </string>
+        <string name = "camera_effect_22"> youth </string>
+        <string name = "camera_effect_23"> rouge </string>
+        <string name = "camera_effect_24"> Genie </string>
+        <string name = "camera_effect_25"> reverie </string>
+        <string name = "camera_effect_26"> ice cold </string>
+        <string name = "camera_effect_27"> milk </string>
+        <string name = "camera_effect_28"> Seine </string>
+        <string name = "camera_effect_29"> early morning </string>
+        <string name = "camera_effect_30"> Izu </string>
+        <string name = "camera_effect_31"> Random </string>
+        <string name = "camera_effect_32"> window fei </string>
+        <string name = "camera_effect_33"> dusk </string>
+        <string name = "camera_effect_34"> cloudy </string>
+        <string name = "camera_effect_35"> dandao </string>
+        <string name = "camera_effect_36"> solar term </string>
+        <string name = "camera_effect_37"> sunset </string>
+        <string name = "camera_effect_38"> hazy </string>
+        <string name = "camera_effect_39"> memory </string>
+    <!-- 配乐方式1 (内置配乐) -->
+    <string name = "music_1_1"> Yue move </string>
+        <string name = "music_1_2"> Inspirational </string>
+        <string name = "music_1_3"> romance </string>
+        <string name = "music_1_4"> Travel </string>
+        <string name = "music_1_5"> small fresh </string>
+        <string name = "music_1_6"> Petty </string>
+        <string name = "music_1_7"> Fashion </string>
+        <string name = "music_1_8"> memory </string>
+        <string name = "music_1_9"> Easy </string>
+        <string name = "music_1_10"> Country </string>
+        <string name = "music_1_11"> laid-back </string>
+
+    <!-- 配乐方式二 -->
+    <string name = "music_2_0"> tide </string>
+        <string name = "music_2_1"> found </string>
+        <string name = "music_2_2"> black and white </string>
+        <string name = "music_2_3"> memory </string>
+        <string name = "music_2_4"> Street </string>
+        <string name = "music_2_5"> Travel </string>
+        <string name = "music_2_6"> fresh </string>
+        <string name = "music_2_7"> run wild </string>
+
+    <!-- 极录客使用 (配乐方式二 ) 同上-->
+    <string name = "sp_music_null"> none </string>
+        <string name = "sp_music_chaowan"> tide </string>
+        <string name = "sp_music_faxian"> found </string>
+        <string name = "sp_music_heibai"> black and white </string>
+        <string name = "sp_music_huiyi"> memories </string>
+        <string name = "sp_music_jietou"> street </string>
+        <string name = "sp_music_lvxing"> travel </string>
+        <string name = "sp_music_qingxin"> fresh </string>
+        <string name = "sp_music_saye"> run wild </string>
+
+    <!-- 滤镜方式1(多组滤镜) -->
+    <string name = "filter_1_0"> original </string>
+        <string name = "filter_1_5"> run wild </string>
+        <string name = "filter_1_6"> Bao </string>
+        <string name = "filter_1_7"> dream </string>
+        <string name = "filter_1_8"> latte </string>
+        <string name = "filter_1_9"> vitality </string>
+        <string name = "filter_1_10"> elegant </string>
+        <string name = "filter_1_11"> runaway </string>
+        <string name = "filter_1_12"> Street beat </string>
+        <string name = "filter_1_13"> European station </string>
+        <string name = "filter_1_14"> Rio </string>
+        <string name = "filter_1_15"> fleeting </string>
+        <string name = "filter_1_16"> Spotlight </string>
+        <string name = "filter_1_17"> migratory </string>
+        <string name = "filter_1_18"> Cloud </string>
+        <string name = "filter_1_19"> rainbow waterfall </string>
+        <string name = "filter_1_20"> elegant </string>
+        <string name = "filter_1_21"> yogurt </string>
+        <string name = "filter_1_22"> youth </string>
+        <string name = "filter_1_23"> rouge </string>
+        <string name = "filter_1_24"> Genie </string>
+        <string name = "filter_1_25"> reverie </string>
+        <string name = "filter_1_26"> ice cold </string>
+        <string name = "filter_1_27"> milk </string>
+        <string name = "filter_1_28"> Seine </string>
+        <string name = "filter_1_29"> early morning </string>
+        <string name = "filter_1_30"> Izu </string>
+        <string name = "filter_1_31"> Random </string>
+        <string name = "filter_1_32"> window fei </string>
+        <string name = "filter_1_33"> near dusk </string>
+        <string name = "filter_1_34"> cloudy </string>
+        <string name = "filter_1_35"> Dandao </string>
+        <string name = "filter_1_36"> solar term </string>
+        <string name = "filter_1_37"> sunset </string>
+        <string name = "filter_1_38"> hazy </string>
+        <string name = "filter_1_39"> memory </string>
+
+    <!-- 滤镜方式二 (jlk) -->
+    <string name = "sp_filter_1"> master </string>
+        <string name = "sp_filter_2"> faded </string>
+        <string name = "sp_filter_3"> light and shade </string>
+        <string name = "sp_filter_4"> blank </string>
+        <string name = "sp_filter_5"> Light years </string>
+        <string name = "sp_filter_6"> stamp </string>
+        <string name = "sp_filter_7"> spark </string>
+        <string name = "sp_filter_8"> streaming cloud </string>
+        <string name = "sp_filter_9"> Qing Huan </string>
+        <string name = "sp_filter_10"> Trace </string>
+
+</resources>
