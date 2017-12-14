@@ -1,0 +1,478 @@
+[
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_size_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\subtitle_size_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_edit_music.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fragment_video_edit_music.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_short_mv.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fragment_video_short_mv.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_music.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_more_music.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\item_gridview.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_theme.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fragment_theme.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_duration.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_image_duration.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_transition_horizontal_item_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_transition_horizontal_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_dialog_advanced_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_dialog_advanced_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_add_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\subtitle_add_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\layout_doodle_paint_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\layout_doodle_paint_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intercept_meida.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_intercept_meida.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\special_menu_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\special_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_localmusic_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_localmusic_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\item_add_view.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\item_add_view.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_webmv_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_webmv_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_prieview.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_video_prieview.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_ver_crop.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_video_ver_crop.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transition_preview.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_transition_preview.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_with_selector_wheel.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_edit.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_video_edit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\sp_watermark_container.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\sp_watermark_container.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_color_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\subtitle_color_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\group_item_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\group_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_edit_filter.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fragment_video_edit_filter.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sort_media.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_sort_media.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\filter_list_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\filter_list_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_music.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_web_music.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_short_video_edit_menu.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_short_video_edit_menu.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\main_camera.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\main_camera.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\camare_filters_container.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\camare_filters_container.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\camera_popup.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\camera_popup.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\preview_edit_split.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\preview_edit_split.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\select_photo_list_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\select_photo_list_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\edit_video_sub_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\edit_video_sub_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\layout_doodle_mosaic.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\layout_doodle_mosaic.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_transition_horizontal_item_2.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_transition_horizontal_item_2.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_mymusic_child.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_mymusic_child.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_scan_media_dialog.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_scan_media_dialog.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\preview_video.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\preview_video.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_short_video_edit.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_short_video_edit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\preview_edit.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\preview_edit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\music_history_child.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\music_history_child.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\layout_doodle_menu.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\layout_doodle_menu.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\main_camera_alter.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\main_camera_alter.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_historymusic_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_historymusic_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\camera_filter_list_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\camera_filter_list_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_horizontal_item_1.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_horizontal_item_1.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\sp_filter_container.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\sp_filter_container.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\theme_edit_title_pw.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\theme_edit_title_pw.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\more_orientation.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\more_orientation.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\music_soundtrack_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\music_soundtrack_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\public_menu.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\public_menu.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_alert_dialog.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\traning_message.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\traning_message.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_music_horizontal_item_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_music_horizontal_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\face_filter_list_item_jben.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\face_filter_list_item_jben.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_preview.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_edit_preview.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_unchecked_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fragment_unchecked_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\camera_preview_screen_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\camera_preview_screen_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\popwind_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\popwind_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\item_ttf_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\item_ttf_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\layout_doodle_paint_size.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\layout_doodle_paint_size.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_horizontal_item_2.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_horizontal_item_2.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_bar.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\indicator_bar.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\camera_filter_list_item_jben.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\camera_filter_list_item_jben.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\camera_preview_square_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\camera_preview_square_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_music_item_01.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_music_item_01.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_webtransition_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_webtransition_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_edit_transition.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fragment_video_edit_transition.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_ttf_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\subtitle_ttf_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fu_beauty_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fu_beauty_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_mydownloadtransition_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_mydownloadtransition_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_transition_horizontal_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_transition_horizontal_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\style_item_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\style_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\video_select_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\video_select_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_speed_prieview.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_speed_prieview.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_for_split.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\dialog_for_split.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_sightseeing_file_folder.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_sightseeing_file_folder.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_transition.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_more_transition.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_music_horizontal_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_music_horizontal_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_more_audio.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fragment_video_more_audio.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\item_edit_priview.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\item_edit_priview.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_filter_horizontal_item_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_filter_horizontal_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\dcimbucket_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\dcimbucket_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\main_xpk.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\main_xpk.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_menu_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\subtitle_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\edit_video_special_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\edit_video_special_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\auto_hide_dialog.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\auto_hide_dialog.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_webmusic_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_webmusic_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\folder_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\folder_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_style_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\subtitle_style_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_title_view.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\layout_dialog_title_view.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_progress_dialog.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\sp_music_container.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\sp_music_container.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_mymusic_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_mymusic_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\alert_listview_dialog.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\alert_listview_dialog.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\popup_window.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\popup_window.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trim_meida.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_trim_meida.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fu_beauty_layout_land.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fu_beauty_layout_land.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_horizontal_progress_dialog.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_horizontal_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\music_fragment.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\music_fragment.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpksdk_public_title_bar.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpksdk_public_title_bar.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\alert_listview_dialog_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\alert_listview_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_pic.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_edit_pic.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_mydownloadtransition_listview_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_mydownloadtransition_listview_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\layout_doodle_paint_style.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\layout_doodle_paint_style.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\xpk_horizontal_fliter_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\xpk_horizontal_fliter_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\edit_video_menu.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\edit_video_menu.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\photo_select_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\photo_select_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video_edit_audio.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fragment_video_edit_audio.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doodle_surface_view.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_doodle_surface_view.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_doodle_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\fragment_doodle_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\osd_textview.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\osd_textview.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\hroizontal_listview_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\hroizontal_listview_layout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\layout_doodle_paint_style_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\layout_doodle_paint_style_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\layout_doodle_paint_ttf.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\layout_doodle_paint_ttf.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_rotate_crop.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\activity_video_rotate_crop.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\res\\merged\\debug\\layout\\camera_filter_more_layout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\layout\\camera_filter_more_layout.xml"
+    }
+]

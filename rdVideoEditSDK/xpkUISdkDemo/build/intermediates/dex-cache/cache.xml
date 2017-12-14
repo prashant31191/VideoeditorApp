@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_234a26107b70421804718ab5d29eaa4ef0fa3682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d3e264c1846f21d0c8a985e856229dacb81dfb58">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-11.6.2_9ea48ccab5fd19df832c33bcc168b58d3dbcfc24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7181496c7bb670060ea4e3dda17e22c3d25f5bd">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-11.6.2_5871360975766f03cfc171935ca1be09a4901fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\common-1.0.0_550bdae630f1149ea2e24c4c2a55988816889576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.0.0_feb0bf6366cb72cebca2fe3737a2717eb6325975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\common-1.0.0_8550ff7672b657e665a1f3cd0e626a9b007465ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d1d560a95d54ba8c68a4867eff03c812ff308898">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-11.6.2_3084fea97ed23d01d2c0b6c6d617f16a18439c9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.0\a7782471b2a0de8fec071b8094a8aaf61c46ab70\support-annotations-27.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\support-annotations-27.0.0_d5165804c70c3f2f5beac61e6f997aa0a9078b42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_4be8a82ee76b6cbcd12d2cf1b6adbf9eb582f61a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_d3b427294a843491640f68d2501a631d3a11a4ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.0.0_b468bee2741aa8432bb02fa370146cdcadcc5606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.0_0dfb3b86536571cb5cb39a19bc6da365d1c6bd78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.0.0_67b800f15203cadd63dbd9b2ca1ea7fcd468d7ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.0.0_7dc828360136f5909857487bf1fc279e7c1a4fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.0.0_180335d5b323c7d34a19423b1d837426e4ae229e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.0.0_79a57130f56b472c28d094ef4b3f20bc4fdd0110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fd6ae8c61bd548b134265ef3c37807d4efcc854c">
+        <dex dex="E:\Prashant\Github_Demo\VideoeditorApp\rdVideoEditSDK\xpkUISdkDemo\azvideomaker\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.6.2_242dde9d1e6b9817a91f4e33f775508b80effb1c.jar" />
+    </item>
+
+</items>

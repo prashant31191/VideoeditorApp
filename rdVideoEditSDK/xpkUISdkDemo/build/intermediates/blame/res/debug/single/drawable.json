@@ -1,0 +1,1110 @@
+[
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_eraser_background.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_eraser_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\trim_menu_radiobtn.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\trim_menu_radiobtn.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_text_item_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_text_item_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_flash_black_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_flash_black_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_menu_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_menu_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_preview_transition.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_preview_transition.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_todown_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_todown_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\mv_voice.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\mv_voice.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_edit_watermark.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_edit_watermark.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_watch_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_watch_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\speed.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\speed.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_moremusic_item_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_moremusic_item_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_select_camera.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_select_camera.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_positive_bg_press.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\dialog_positive_bg_press.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_bucket_arrow_up.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_bucket_arrow_up.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_dialog_positive_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\alert_dialog_positive_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\textboard_rightside_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\textboard_rightside_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_more_sight_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_more_sight_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_library_scan.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_library_scan.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_library_additem_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_library_additem_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_04.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_04.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_split.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\menu_split.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sort_gradient_bg_180.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sort_gradient_bg_180.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_camera_blackscreen_btn_back.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\main_camera_blackscreen_btn_back.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_more_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_more_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_edit_partedit.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_edit_partedit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\item_fliter_underline.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\item_fliter_underline.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\public_menu_sure.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\public_menu_sure.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_word.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_word.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\subtitle_edit.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\subtitle_edit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_thumb.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\res\\drawable\\switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_next_step_background.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_next_step_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_flash_white_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_flash_white_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\textboard_leftside_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\textboard_leftside_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\subtitle_clear.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\subtitle_clear.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_txcolor.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\radio_btn_txcolor.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\item_underline.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\item_underline.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_last.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_last.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_camera_quality_btn_back.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\main_camera_quality_btn_back.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_cancel_background.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_cancel_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_normal_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\dialog_normal_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_back_button_selector.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\normal_back_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\res\\drawable\\switch_track.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_on.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\res\\drawable\\switch_track_on.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_paint_background.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_paint_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\moremusic_my.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\moremusic_my.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_library_delete.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_library_delete.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_effects_default.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\icon_effects_default.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_cancel_btn.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\dialog_cancel_btn.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_group_btn_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\radio_group_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\unconnect_btn_bg_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\unconnect_btn_bg_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\import_btn_sure.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\import_btn_sure.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_02.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_02.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_waiting_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\loading_waiting_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_08.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_08.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_duration_thumb.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_duration_thumb.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_stroke.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\res\\drawable\\layout_stroke.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sub_menu_rbtn_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sub_menu_rbtn_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sb_back_drawable.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sb_back_drawable.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sort_gradient_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sort_gradient_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_positive_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\dialog_positive_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_music_delete.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_music_delete.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_default_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_default_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sharp1.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sharp1.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_detail_player_progress_drag.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_detail_player_progress_drag.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_09.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_09.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\border_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\border_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\item_special_underline.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\item_special_underline.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\select_camera_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\select_camera_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_music_edit.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_music_edit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_sort_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_sort_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\autoview_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\autoview_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_partedit.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_partedit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_12.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_12.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_music_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_music_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_listview_cancel.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\alert_listview_cancel.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_special.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_special.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\crop.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\crop.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\horizontal_progress_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\horizontal_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\living_waiting.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\living_waiting.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_edit_filter.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_edit_filter.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_delete_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\camera_delete_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_intercept_fullscreen.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_intercept_fullscreen.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_edit_audio_audition_background.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_edit_audio_audition_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sharp2.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sharp2.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_bucket_arrow_down.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_bucket_arrow_down.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sort_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sort_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_library_deleteall.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_library_deleteall.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\moremusic_web.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\moremusic_web.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_factor_drag.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\audio_factor_drag.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_preview_addvideo.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_preview_addvideo.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\rb_mv.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\rb_mv.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_edit_back.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_edit_back.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_radiobutton_backgroud.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_radiobutton_backgroud.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_more.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\btn_camera_more.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_preview_addtext.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_preview_addtext.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_done_background.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_done_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_seek_bar_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_seek_bar_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_dialog_normal_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\alert_dialog_normal_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_rotate_counter_clockwise.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\crop_rotate_counter_clockwise.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_recovery_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_recovery_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\textboard_midside_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\textboard_midside_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_album_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\camera_album_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\item_underline_ext.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\item_underline_ext.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_more_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_more_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_continue_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_continue_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_edit_library.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_edit_library.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\living_beauty.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\living_beauty.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_preview_edit.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_preview_edit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\cropmode_free_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\cropmode_free_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_null_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_null_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_selected_rb_textcolor.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_selected_rb_textcolor.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_dialog_color_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\alert_dialog_color_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_light.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_preview_speed.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_preview_speed.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_detail_player_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_detail_player_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\unconnect_btn_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\unconnect_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\save_and_share_btn_textcolor.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\save_and_share_btn_textcolor.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_advanced_progress_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\dialog_advanced_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_normal_bg_press.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\dialog_normal_bg_press.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_close.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\btn_close.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ttf_listselecter.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\ttf_listselecter.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\endsight_button_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\endsight_button_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\select_music_scan_folder.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\select_music_scan_folder.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_factor_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_factor_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\webprogress_horizontal.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\webprogress_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\splite.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\splite.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\addmenu_addimage.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\addmenu_addimage.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sort.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sort.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_flash_status.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\camera_flash_status.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_dark.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_duration_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_duration_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_selected_radiobtn_textcolor.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_selected_radiobtn_textcolor.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\draggable_grid_close_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\draggable_grid_close_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\copy.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\copy.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_help.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\camera_help.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_preview_addimage.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_preview_addimage.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_bottom_button_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\normal_bottom_button_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_toup_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_toup_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_03.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_03.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\scaning_media_dialog_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\scaning_media_dialog_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_proportion.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_proportion.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_edit_close.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_edit_close.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_button_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\alert_button_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_editor_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_editor_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\image_duration_applytoall_textcolor.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\image_duration_applytoall_textcolor.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\round_editstyle.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\round_editstyle.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\subtitle_style.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\subtitle_style.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\xpk_menu_gradient_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\xpk_menu_gradient_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_edit_music.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_edit_music.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\xpk_dialog_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\xpk_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\moremusic.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\moremusic.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_01.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_01.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\mv_music.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\mv_music.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_corners_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\dialog_corners_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_camera_pause_btn_back.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\main_camera_pause_btn_back.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shooting_ratio.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\btn_shooting_ratio.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\trash.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\trash.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_over_rec_for_lanscape.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\btn_over_rec_for_lanscape.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_item_subtitle_underline.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_item_subtitle_underline.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_more.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_more.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_proportion_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_proportion_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\autoview_dialog_sure_btn.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\autoview_dialog_sure_btn.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_edit_sure.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_edit_sure.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_button_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\main_button_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_negative_bg_press.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\dialog_negative_bg_press.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_sub_arrow_down.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_sub_arrow_down.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_detail_player_loading_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_detail_player_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate_angle.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\rotate_angle.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_transition.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_transition.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_doodle.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_doodle.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent_btn_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transparent_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_intercept_revert.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_intercept_revert.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_mirror_leftright.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\crop_mirror_leftright.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_wind_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_wind_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_more_orientation_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_more_orientation_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\public_editor_backgroup.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\public_editor_backgroup.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_color_p.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_text_color_p.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\living_proportion.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\living_proportion.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_more_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_more_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_sub_arrow_up.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_sub_arrow_up.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_rb_audio.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_rb_audio.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\select_camera_popwin_textcolor.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\select_camera_popwin_textcolor.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\scaning_alert_dialog_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\scaning_alert_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\select_music_list_left_icon.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\select_music_list_left_icon.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_back_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_back_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_delete_background.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_delete_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\public_menu_cancel.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\public_menu_cancel.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_negative_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\dialog_negative_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_mirror_updown.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\crop_mirror_updown.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_sure_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\camera_sure_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_05.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_05.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_round_button_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_round_button_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\addmenu_addvideo.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\addmenu_addvideo.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_music_arrow.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_music_arrow.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_title_preview_back.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\theme_title_preview_back.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_cancel.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\menu_cancel.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sharp3.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sharp3.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_11.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_11.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_close_filterlist.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\btn_close_filterlist.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_track_off.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\res\\drawable\\switch_track_off.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_back_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_back_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_toleft_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_toleft_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_face_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\camera_face_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_audio.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_audio.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\intercept_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\intercept_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\none_filter.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\none_filter.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\subtitle_del_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\subtitle_del_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\cropmode_1x1_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\cropmode_1x1_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\factor_transparent_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\factor_transparent_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\select_music_scan_content.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\select_music_scan_content.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\addmenu_transition.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\addmenu_transition.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_rotate_button_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\crop_rotate_button_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_speed_preivew_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_speed_preivew_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_next.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_next.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\item_subtitle_underline.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\item_subtitle_underline.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_07.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_07.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_rotate_clockwise.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\crop_rotate_clockwise.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\trim_1x1_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\trim_1x1_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_music_txcolor.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\radio_music_txcolor.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_library_scan_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_library_scan_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_filter.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_filter.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\addmenu_addtext.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\addmenu_addtext.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\pbar_circle.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\pbar_circle.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_edit_autio_reset_background.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_edit_autio_reset_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_factor_thumb.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_factor_thumb.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\reverse.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\reverse.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\select_music_scan_content_back_root.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\select_music_scan_content_back_root.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\hori_progress_dialog_cancel.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\hori_progress_dialog_cancel.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_music_delete.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_music_delete.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\tran_shape.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\tran_shape.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_rg_item_underline.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_rg_item_underline.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\add_music_item.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\add_music_item.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_add_video_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_add_video_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_06.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_06.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\video_play_load_progressbg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\video_play_load_progressbg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\more_music_menu_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\more_music_menu_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\orientation_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\orientation_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\land_ttf_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\land_ttf_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sightseeing_file_text_color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sightseeing_file_text_color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_dialog_negative_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\alert_dialog_negative_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_cursor.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\text_cursor.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\inputmanager.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\inputmanager.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_orange_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\main_orange_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\music_library_checkbox.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\music_library_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_sure.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\menu_sure.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_toright_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_toright_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\unconnect_btn_txcolor.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\unconnect_btn_txcolor.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\del.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\del.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\subtitle_save.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\subtitle_save.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\image_duration_applytoall.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\image_duration_applytoall.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_switch_camera.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\btn_switch_camera.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\more_music_menu_bg_selected.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\more_music_menu_bg_selected.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_music.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_music.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\rotate.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\rundrect_bg.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\rundrect_bg.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\transition_mosaic_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\transition_mosaic_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobtn_left.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\radiobtn_left.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_previous_step_background.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_previous_step_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\audio_factor_progress.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\audio_factor_progress.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobtn_right.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\radiobtn_right.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\screen_delete.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\screen_delete.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_camera_continue_btn_back.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\main_camera_continue_btn_back.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\fu_blue_rb__color.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\fu_blue_rb__color.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\cropmode_original_button.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\cropmode_original_button.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\origin_voice_togglebutton.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\origin_voice_togglebutton.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_theme.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\edit_theme.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_mosaic_style_background_10.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\doodle_mosaic_style_background_10.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_preview_split.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\sp_preview_split.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\main_camera_quality_hd_btn_back.xml",
+        "source": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\drawable\\main_camera_quality_hd_btn_back.xml"
+    }
+]

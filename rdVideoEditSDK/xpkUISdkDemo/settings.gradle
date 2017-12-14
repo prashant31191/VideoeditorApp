@@ -1,2 +1,2 @@
-include ':xpkUISdk'
+include ':xpkUISdk', ':azvideomaker'
 project(":xpkUISdk").projectDir = file("../xpkUISdk")

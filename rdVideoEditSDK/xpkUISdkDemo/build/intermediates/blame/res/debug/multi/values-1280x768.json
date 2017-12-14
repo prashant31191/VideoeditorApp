@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-1280x768\\values-1280x768.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdkDemo\\build\\intermediates\\exploded-aar\\xpkUISdkDemo\\xpkUISdk\\unspecified\\res\\values-1280x768\\values-1280x768.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 62,
+                        "endOffset": 113
+                    }
+                }
+            }
+        ]
+    }
+]

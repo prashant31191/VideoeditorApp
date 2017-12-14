@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    }
+]

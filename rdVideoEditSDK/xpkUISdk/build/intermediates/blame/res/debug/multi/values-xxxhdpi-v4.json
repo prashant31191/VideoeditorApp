@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxxhdpi-v4\\values-xxxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 46,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 46,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 46,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 45,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 45,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 41,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 41,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 49,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 49,
+                        "endOffset": 957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 57,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 963,
+                        "endColumn": 57,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 57,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endColumn": 57,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 46,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 46,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 55,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 55,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 54,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 799,
+                        "endColumn": 54,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 47,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 750,
+                        "endColumn": 47,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 47,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 47,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 52,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 52,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 47,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 47,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 46,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 46,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 58,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 58,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 864,
+                    "endColumn": 57,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "E:\\Prashant\\Github_Demo\\VideoeditorApp\\rdVideoEditSDK\\xpkUISdk\\res\\values-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 86,
+                        "endColumn": 57,
+                        "endOffset": 139
+                    }
+                }
+            }
+        ]
+    }
+]

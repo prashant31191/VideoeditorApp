@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="audio_reset_layout_margin_bottom">5dp</dimen>
+</resources>

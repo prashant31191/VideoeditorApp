@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$/../xpkUISdk" />
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/azvideomaker" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
